@@ -11,6 +11,7 @@ This application is designed to facilitate the management of patients and doctor
 
 4.**Patient Interaction**:Visit existing patients by entering their unique patient ID.
 
+
 **Key functions of the application include**:
 
 Loading hospital policies.

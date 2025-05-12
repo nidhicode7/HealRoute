@@ -15,10 +15,15 @@ This application is designed to facilitate the management of patients and doctor
 **Key functions of the application include**:
 
 Loading hospital policies.
+
 Populating the array of doctor details.
+
 Adding new patients and assigning them to appropriate departments.
+
 Managing patient visits.
+
 Displaying the list of hospital departments with their respective IDs.
+
 Showing routes to various hospital departments.
 Viewing patient details.
 Areas for Enhancement

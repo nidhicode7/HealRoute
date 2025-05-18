@@ -73,7 +73,7 @@ void loadPolicies() {
 void loadDoctorsArray() {
 	strcpy(doctors[0].position, "Cardiologist");
 	strcpy(doctors[0].expertise, "Heart Diseases");
-	strcpy(doctors[0].route, "Go to 1st floor and take the left corridor");
+	strcpy(doctors[0].route, "Go to 1st floor and then take the left corridor");
 	strcpy(doctors[0].emergencyDoctor, "Emergency Dr Antony");
 	strcpy(doctors[0].nonEmergencyDoctor, "Non Emergency Dr John");
 	strcpy(doctors[1].position, "Neurologist");

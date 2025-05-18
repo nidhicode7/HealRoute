@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#define MAX_STR_LEN 50
+#define MAX_STR_LEN 500
 struct patientStucture {
 	char name[30];
 	int id,department,phone,age;
